@@ -1,0 +1,66 @@
+body
+
+{
+  
+    color: white;
+    background-color: #403e3e;
+   
+    
+}
+
+h1
+
+{
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    font-family: "Verdana", Times, sans-serif;
+    color: #fae596;
+    
+}
+
+
+
+
+#black_page
+
+{
+    
+   background-color: #7d4627;
+    
+}
+
+#black
+
+{
+    display: inline;
+    width: 100%;
+    height: 100%;
+    text-align:center;
+    
+    
+}
+
+
+
+
+#blue_page
+
+{
+    
+    background-color: #c9d8c5;
+    
+}
+
+#blue
+
+{
+    
+    display: inline;
+    width: 100%;
+    height: 100%;
+    text-align:center;
+    
+}
